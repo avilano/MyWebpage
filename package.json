@@ -1,12 +1,12 @@
 {
-  "name": "freelancer",
-  "title": "Freelancer",
-  "version": "3.3.7+1",
-  "homepage": "http://startbootstrap.com/template-overviews/freelancer",
-  "author": "Start Bootstrap",
+  "name": "avilanoWebsite",
+  "title": "avilanoPage",
+  "version": "1.1",
+  "homepage": "http://avilano.me",
+  "author": "Alberto Ettienne Vilano Reyna",
   "license": {
     "type": "MIT",
-    "url": "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
+    "url": "https://github.com/avilano/MyWebpage/gh-pages/LICENSE"
   },
   "devDependencies": {
     "bootstrap": "^3.3.7",
@@ -22,6 +22,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer.git"
+    "url": "https://github.com/avilano/MyWebsite.git"
   }
 }
