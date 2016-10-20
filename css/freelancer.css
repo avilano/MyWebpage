@@ -23,6 +23,7 @@ a.active {
 }
 .profile-picture {
   width: 250px;
+  border-radius: 25px;
 }
 h1,
 h2,

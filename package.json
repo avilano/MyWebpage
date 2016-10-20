@@ -1,27 +1,32 @@
 {
-  "name": "avilanoWebsite",
-  "title": "avilanoPage",
-  "version": "1.1",
-  "homepage": "http://avilano.me",
-  "author": "Alberto Ettienne Vilano Reyna",
-  "license": {
-    "type": "MIT",
-    "url": "https://github.com/avilano/MyWebpage/gh-pages/LICENSE"
-  },
+  "name": "avilano.webpage",
+  "version": "1.0.0",
+  "description": "personal website",
+  "main": "gulpfile.js",
+  "dependencies": {},
   "devDependencies": {
-    "bootstrap": "^3.3.7",
-    "browser-sync": "^2.13.0",
-    "font-awesome": "^4.6.3",
-    "gulp": "^3.9.1",
-    "gulp-clean-css": "^2.0.10",
-    "gulp-header": "^1.8.7",
-    "gulp-less": "^3.1.0",
-    "gulp-rename": "^1.2.2",
-    "gulp-uglify": "^1.5.4",
-    "jquery": "^1.11.3"
+  "bootstrap": "^3.3.7",
+  "browser-sync": "^2.13.0",
+  "font-awesome": "^4.6.3",
+  "gulp": "^3.9.1",
+  "gulp-clean-css": "^2.0.10",
+  "gulp-header": "^1.8.7",
+  "gulp-less": "^3.1.0",
+  "gulp-rename": "^1.2.2",
+  "gulp-uglify": "^1.5.4",
+  "jquery": "^1.11.3"
+},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/avilano/MyWebsite.git"
-  }
+    "url": "git+https://github.com/avilano/MyWebpage.git"
+  },
+  "author": "Alberto E. Vilano Reyna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avilano/MyWebpage/issues"
+  },
+  "homepage": "https://github.com/avilano/MyWebpage#readme"
 }
